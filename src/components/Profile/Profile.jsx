@@ -1,5 +1,5 @@
 
-import App from "./App";
+import App from "../App";
 
 function Profile({ name, tag, location, image, stats }) {
     return (
